@@ -1,4 +1,10 @@
-### Hi there 👋
+![](icon.png)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeavenX&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeavenX&langs_count=5)
+
+
 
 <!--
 **TeavenX/TeavenX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
