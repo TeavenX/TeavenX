@@ -1,5 +1,7 @@
 ![](icon.png)
 
+<figure><embed src="https://wakatime.com/share/@Teaven/25d599bf-3102-4c5e-81b7-7e825abf7007.svg"></embed></figure>
+
 ![Teaven's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeavenX&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeavenX&langs_count=5) -->
